@@ -1,7 +1,7 @@
 import Network
 import System.IO
  
-server = "irc.freenode.org"
+server = "chat.freenode.org"
 port   = 6667
  
 main = do
